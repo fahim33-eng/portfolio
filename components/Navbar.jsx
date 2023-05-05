@@ -58,7 +58,7 @@ export default function Navbar() {
                     <div onClick={handleNav} className='rounded-full cursor-pointer p-3 shadow-lg shadow-gray-400'>
                         <AiOutlineClose size={25}/>
                     </div>
-                    <Image  src={"/logo6.png"} alt='/' width={'80'} height={'40'} /> 
+                    {/* <Image  src={"/logo6.png"} alt='/' width={'80'} height={'40'} />  */}
                 </div>
                 <div className='border-b border-gray-400 my-4'>
                     <p className='py-4'>Let us build something legendary together</p>
