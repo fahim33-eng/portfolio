@@ -45,7 +45,7 @@ export default function Navbar() {
                     <li className='uppercase ml-10 hover:border-b text-sm'>Contact</li>
                 </Link>
             </ul>
-            <div onClick={handleNav} className='md:hidden'>
+            <div onClick={handleNav} className='md:hidden mr-5'>
                 <AiOutlineMenu size={25}/>
             </div>
         </div>
