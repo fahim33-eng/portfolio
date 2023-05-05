@@ -20,7 +20,7 @@ function Contact() {
                         <div>
                             <h2 className='my-4'>Fahim Shakil</h2>
                             <p className='text-sm my-2 font-light text-gray-500'>Full Stack Developer</p>
-                            <p>I am available for new challenges and eager to hear about your company&#39s needs</p>
+                            <p>I am available for new challenges and eager to hear about your company&#39;s needs</p>
                         </div>
                         <div>
                             <p className='pt-32'>CONNECT WITH ME</p>
