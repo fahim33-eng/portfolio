@@ -46,7 +46,7 @@ export default function Navbar() {
                 </Link>
             </ul>
             <div onClick={handleNav} className='md:hidden mr-5'>
-                <AiOutlineMenu size={25}/>
+                {nav && <AiOutlineMenu size={25}/>}
             </div>
         </div>
       </div>
