@@ -15,7 +15,7 @@ function Contact() {
                 <div className='col-span-3 lg:col-span-2 w-full h-full shadow-xl shadow-gray-400 rounded-xl p-4'>
                     <div className='lg:p-4 h-full'>
                         <div>
-                            <Image className='rounded-xl hover:scale-105 ease-in duration-300' src={"/../public/myPhoto.jpg"} width={"300"} height={"300"} alt="/" />
+                            <Image className='rounded-xl hover:scale-105 ease-in duration-300' src={"/myPhoto.jpg"} width={"300"} height={"300"} alt="/" />
                         </div>
                         <div>
                             <h2 className='my-4'>Fahim Shakil</h2>

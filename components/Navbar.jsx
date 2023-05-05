@@ -26,7 +26,7 @@ export default function Navbar() {
   return (
     <div className={shadow ? "fixed z-[100] w-full h-20 shadow-xl ease-in duration-100 bg-[#ecf0f3]" : "fixed z-[100] w-full h-20 ease-in duration-500 bg-[#ecf0f3]"}>
       <div className='flex justify-between items-center px-2 2xl:px-16 w-full h-full'>
-        <Image  src={"/../public/logo6.png"} alt='/' width={'80'} height={'40'} />
+        <Image  src={"/logo6.png"} alt='/' width={'80'} height={'40'} />
         <div>
             <ul className='hidden md:flex'>
                 <Link href={"/"}>
